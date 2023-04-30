@@ -1,7 +1,7 @@
 % ---------------------------------------------------------------------
 % TESTING
 %
-% Runs all test cases defined automatically and its solution.
+% Runs all test cases defined automatically and displays its solution.
 %
 % Credits to Peng Zhou, Duc Tran and James for the test cases.
 % ---------------------------------------------------------------------
